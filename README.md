@@ -1,3 +1,3 @@
 # TestProject_BatteryMan
  
-In this repository you can find cpp and header files with c++ code implemented. 
+Unreal Engine 4 project with implementation of HP bar, life cycle, and energy resource.
